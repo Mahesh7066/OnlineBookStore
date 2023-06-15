@@ -7,4 +7,3 @@
 * He can add, delete, update a book information and his activities will be recorded in the database for future references and other purposes
 * He can find a book in the list shown to the user
 * Book can be searched & filtered based on book name, author name and description
-* Go to:   https://mahesh7066.github.io/e-comm_dashboard/
